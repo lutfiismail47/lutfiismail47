@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP<br>🎯 Goals: Become a Laravel Developer<br>🎲 Fun fact: I like simplicity and order<br>📫 Reach me at lutfiismail47@gmail.com</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP<br>🎯 Goals: Build useful applications<br>🎲 Fun fact: I like simplicity and order<br>📫 Reach me at lutfiismail47@gmail.com</p>
 
 ###
 
